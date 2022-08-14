@@ -1,0 +1,8 @@
+Debugging: 
+    Error: 
+        what happened 
+        why it happened
+        how it happened
+        where it happened
+        how to prevent it 
+        the resolution. 
